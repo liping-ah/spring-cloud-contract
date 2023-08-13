@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-cloud-contract-common/target/
+/spring-cloud-contract-provider/target/

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4aa2d17-be73-41af-bf8f-1696d9b33e79" name="Default Changelist" comment="上传项目">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\java\jar\repository" />
+        <option name="mavenHome" value="E:\software\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\software\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2Tndr5Zn03MwtzCQCMb2DZLdJAT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.importsource.springcloud" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringCloudContractApplicationTests">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudContractApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-contract-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.importsource.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.importsource.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.importsource.springcloud.SpringCloudContractApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudContractApplicationTests.case1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-contract-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.importsource.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.importsource.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.importsource.springcloud.SpringCloudContractApplicationTests" />
+      <option name="METHOD_NAME" value="case1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudContractApplicationTests.case12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-contract-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.importsource.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.importsource.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.importsource.springcloud.SpringCloudContractApplicationTests" />
+      <option name="METHOD_NAME" value="case12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudContractConsumerApplicationTests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="spring-cloud-contract-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.importsource.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.importsource.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.importsource.springcloud.SpringCloudContractConsumerApplicationTests" />
+      <option name="METHOD_NAME" value="testGetCustomers" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="org.apache.maven.user-settings" value="E:\software\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StubGenTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-contract-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.importsource.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.importsource.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.importsource.springcloud.StubGenTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StubGenTests.testHello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-contract-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.importsource.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.importsource.springcloud" />
+      <option name="MAIN_CLASS_NAME" value="com.importsource.springcloud.StubGenTests" />
+      <option name="METHOD_NAME" value="testHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudContractApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-contract-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.importsource.springcloud.SpringCloudContractApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudContractConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-contract-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.importsource.springcloud.SpringCloudContractConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringCloudContractConsumerApplicationTests" />
+      <item itemvalue="JUnit.SpringCloudContractApplicationTests" />
+      <item itemvalue="Spring Boot.SpringCloudContractApplication" />
+      <item itemvalue="Spring Boot.SpringCloudContractConsumerApplication" />
+      <item itemvalue="JUnit.StubGenTests" />
+      <item itemvalue="JUnit.StubGenTests.testHello" />
+      <item itemvalue="JUnit.SpringCloudContractApplicationTests.case1" />
+      <item itemvalue="JUnit.SpringCloudContractApplicationTests.case12" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringCloudContractApplicationTests" />
+        <item itemvalue="JUnit.SpringCloudContractApplicationTests.case1" />
+        <item itemvalue="JUnit.SpringCloudContractApplicationTests.case12" />
+        <item itemvalue="JUnit.StubGenTests.testHello" />
+        <item itemvalue="JUnit.StubGenTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MyPC\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4aa2d17-be73-41af-bf8f-1696d9b33e79" name="Default Changelist" comment="" />
+      <created>1691682979468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691682979468</updated>
+      <workItem from="1691682982614" duration="756000" />
+      <workItem from="1691759111982" duration="6960000" />
+      <workItem from="1691804554065" duration="8669000" />
+      <workItem from="1691832377381" duration="10603000" />
+      <workItem from="1691844583904" duration="27897000" />
+    </task>
+    <task id="LOCAL-00001" summary="上传项目">
+      <created>1691936589880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691936589880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="上传项目">
+      <created>1691937334787</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691937334787</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上传项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传项目" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../java/jar/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/io/DefaultResourceLoader.class</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../java/jar/repository/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE.jar!/org/springframework/core/io/DefaultResourceLoader.class</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../java/jar/repository/org/springframework/cloud/spring-cloud-contract-stub-runner/1.1.4.RELEASE/spring-cloud-contract-stub-runner-1.1.4.RELEASE.jar!/org/springframework/cloud/contract/stubrunner/spring/StubRunnerProperties.class</url>
+          <line>62</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_cloud_contract$ContractVerifierTest_validate_shouldReturnAllCustomers.ic" NAME="ContractVerifierTest.validate_shouldReturnAllCustomers Coverage Results" MODIFIED="1691894126422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.springframework.cloud.contract.verifier.tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
